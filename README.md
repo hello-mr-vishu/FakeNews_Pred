@@ -49,5 +49,3 @@ The project evaluates the accuracy of the model on a test dataset and provides i
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
